@@ -8,7 +8,7 @@
 |-----------|--------------|
 | Tool 1 Claude     |       4       |
 | Tool 2  Adobe Firefly  |      3        |
-| Tool 3 Heygen    |        4      |
+| Tool 3 HeyGen    |        4      |
 
 # Round 1: Claude
 [Claude]((https://claude.ai/)) Claude is an AI assistant created by Anthropic to engage in helpful conversations with users. By generating human-like text responses, Claude aims to help with a wide variety of tasks like writing, research, analysis, problem-solving, and creative brainstorming. It does not generate images or have the capability to create or edit videos.
