@@ -109,11 +109,14 @@ To start using the tool:
 - Images do not specifically or effectively illustrate the concept of cloud computing as an innovation.
 
 
+
 *Image Prompt #2*:
 Using prompt suggestions: 
 “Cloud computing concept with laptop and abstract technology icons around” 
 
 ![Cloud Computing](https://github.com/Kunsulyu/ISSIP_KJ/blob/bd16a752cd6ec5f69d2c06e145f365fa048d8a6f/images/cloud_computing.png)
+
+- The images show laptops connected to cloud symbols and various computing icons, clearly demonstrating how cloud computing allows users to access and use remote computing resources and services over the Internet.
 
 
 
