@@ -142,8 +142,7 @@ Using prompt suggestions:
 | **3. Traceability**          |              |                                                                                            |
 | Source Attribution           |      3       | Adobe Firefly provides limited information on the sources of its data, needing more transparency.                                    |
 | **4. Transparency**          |             |                                                                                            |
-| Resource Accessbility      |       5      | 
-Adobe Firefly maintains a high level of transparency regarding resource accessibility, ensuring clarity, availability, regular updates, and comprehensive documentation.     | 
+| Resource Accessbility      |       5      | Adobe Firefly maintains a high level of transparency regarding resource accessibility, ensuring clarity, availability, regular updates, and comprehensive documentation.     | 
 | **5. Privacy and Security**               |              |                                                                                            |
 | Third-Party Disclosure       |        4      | Limited third-party sharing is evident, with some data shared for specific functionalities. 	Adequate measures are in place to protect user data from unauthorized access or disclosure.
 
