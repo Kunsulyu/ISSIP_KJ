@@ -120,3 +120,9 @@ Using prompt suggestions:
 
 
 
+  *Image Prompt #3*:
+  Using prompt suggestions:
+ “An infographic of cloud computing; a woman with a laptop”
+
+
+
