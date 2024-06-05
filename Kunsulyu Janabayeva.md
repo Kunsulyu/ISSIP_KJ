@@ -138,7 +138,7 @@ Using prompt suggestions:
 | Diverse Representative Data  |       3     | Adobe Firefly shows some diversity, but there is room for improvement in representing all groups consistently.                        |
 | Bias Awareness and Mitigation|       3       | Adobe Firefly has some mechanisms to recognize and reduce bias, but these efforts are not always evident.      |
 | **2. Reliability**   |              |                                                                                            |
-| Quality Results over Time        |       3       | The images are good and repetition is not always gauranteed.                        |
+| Quality Results over Time        |       4       | The tool shows improvements over time, though some areas still need refinement.                       |
 | **3. Traceability**          |              |                                                                                            |
 | Source Attribution           |      3       | Adobe Firefly provides limited information on the sources of its data, needing more transparency.                                    |
 | **4. Transparency**          |             |                                                                                            |
