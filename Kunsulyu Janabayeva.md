@@ -28,7 +28,20 @@ To start using the tool:
 ## Prompts
 
 *Prompt #1*: 
-* "Write me a short paragraph explaining how the Cloud computing is an important service innovation”
+"Write me a short paragraph explaining how the Cloud computing is an important service innovation”
 
 Output:
 Cloud computing has emerged as a transformative service innovation due to its ability to provide convenient, on-demand access to a shared pool of configurable computing resources like servers, storage, networks, and applications over the internet. By allowing companies to avoid huge capital outlays in local infrastructure and instead purchase just the capacity needed as a utility service, cloud computing provides greater flexibility and agility. It enables companies to quickly scale up or down based on needs. The cloud's self-service interface also reduces the need for IT involvement in routine tasks. With its pay-as-you-go pricing model, cloud computing has made computing resources affordable for organizations of all sizes. This scalability, flexibility and affordability is why cloud computing represents such a vital innovation in how computing resources and services can be provisioned and consumed.
+
+*Prompt #2*:
+"make it more concise, include a real-world example, make it more interesting"
+
+Output:
+Cloud computing has radically disrupted IT services by enabling hassle-free scalability. For example, cloud-based file storage services like Dropbox grant consumers unlimited capacity to securely store files and media online. This liberates users from clunky external hard drives and complicated network setups previously required for expanding storage needs. Without any hardware to maintain, and pricing tailored to actual monthly usage, cloud-based file storage demonstrates how the cloud’s flexible, pay-as-you-go model has innovatively transformed the capability to access computing resources with incredible simplicity and cost-effectiveness.
+
+*Prompt #3*:
+"Explain its benefits and harms"
+
+Output:
+The innovation of cloud computing has substantially lowered barriers to accessing best-in-class IT resources. For example, even small businesses can leverage powerful utilities like AI, analytics, and software development platforms from leading cloud providers. Without massive infrastructure investments, organizations can rapidly scale usage to meet evolving needs. However, reliance on clouds also engenders risks. Storing sensitive data with third parties requires robust security and diligent access governance to prevent breaches. Service outages could cripple dependent operations. While cloud migration reduces some burdens on in-house IT teams, it demands new skills in cloud architecture, access management and capacity planning. If mismanaged, organizations could overpay for unused capacity allotted based on inaccurate estimates. Appropriately embracing the main benefits of agility and innovation, while mitigating the primary risks around security, availability and cost management will enable adopters to successfully harness the cloud computing revolution going forward.
+
