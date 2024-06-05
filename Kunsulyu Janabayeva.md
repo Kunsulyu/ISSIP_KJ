@@ -113,4 +113,7 @@ To start using the tool:
 Using prompt suggestions: 
 “Cloud computing concept with laptop and abstract technology icons around” 
 
+![Cloud Computing](https://github.com/Kunsulyu/ISSIP_KJ/blob/bd16a752cd6ec5f69d2c06e145f365fa048d8a6f/images/cloud_computing.png)
+
+
 
