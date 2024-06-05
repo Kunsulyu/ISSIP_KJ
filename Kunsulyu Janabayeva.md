@@ -161,5 +161,12 @@ HeyGen is an innovative video platform that leverages the capabilities of genera
 To start using the tool:
 1. Go to https://www.heygen.com
 2. Create an account
-3. Start by selecting an avatar, templete and elements for the video. Script can be generated using GPT4 Script Writer or enter your own text
-4. Once all are set, select submit 
+3. Start by selecting an avatar
+4. Create your own video templates or choose from a selection of public templates.
+5. Choose from AI-generated voices or record your own voiceovers for your videos.
+6. Translate your videos into multiple languages to reach a global audience.
+7. Customize videos with personalized messages or details. 
+8. Once all are set, select submit
+
+* Output
+[Watch the fitness tracker video]https://app.heygen.com/share/35e55d8f7087487bb9723b0eeffc9d70
