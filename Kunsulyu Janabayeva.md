@@ -124,5 +124,8 @@ Using prompt suggestions:
   Using prompt suggestions:
  “An infographic of cloud computing; a woman with a laptop”
 
+![Cloud Computing](https://github.com/Kunsulyu/ISSIP_KJ/blob/22a68a3be585c8342c1f9b78c2b758612a3d6bb5/images/cloud_computing2.png)
+
+
 
 
