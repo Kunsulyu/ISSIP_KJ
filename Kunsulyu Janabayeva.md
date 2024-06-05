@@ -106,4 +106,7 @@ To start using the tool:
 
 ![Cloud Computing](https://github.com/Kunsulyu/ISSIP_KJ/blob/73aec83887e01fd6c15208a4fa5d9deba2668da8/images/cloud-computing0.png)
 
+- Images do not specifically or effectively illustrate the concept of cloud computing as an innovation.
+
+
 
