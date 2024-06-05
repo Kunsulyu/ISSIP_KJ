@@ -109,4 +109,8 @@ To start using the tool:
 - Images do not specifically or effectively illustrate the concept of cloud computing as an innovation.
 
 
+*Image Prompt #2*:
+Using prompt suggestions: 
+“Cloud computing concept with laptop and abstract technology icons around” 
+
 
