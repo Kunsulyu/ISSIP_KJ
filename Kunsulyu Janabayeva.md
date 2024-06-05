@@ -140,7 +140,7 @@ Using prompt suggestions:
 | **2. Reliability**   |              |                                                                                            |
 | Quality Results over Time        |       3       | The images are good and repetition is not always gauranteed.                        |
 | **3. Traceability**          |              |                                                                                            |
-| Source Attribution           |      1       | Open source is used but source is never attributed.                                     |
+| Source Attribution           |      3       | Adobe Firefly provides limited information on the sources of its data, needing more transparency.                                    |
 | **4. Transparency**          |             |                                                                                            |
 | Resource Accessbility      |       1      | The data is claimed to be open source but there is no open repository to review     | 
 | **5. Privacy and Security**               |              |                                                                                            |
