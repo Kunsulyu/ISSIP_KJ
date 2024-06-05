@@ -103,8 +103,5 @@ To start using the tool:
 
 *Image Prompt #1*:
 "Cloud computing as an innovation"
-images/cloud-computing0.png
-images/cloud-computing0.png
-https://github.com/Kunsulyu/ISSIP_
-KJ/blob/main/images/cloud-computing.png
+https://github.com/Kunsulyu/ISSIP_KJ/blob/73aec83887e01fd6c15208a4fa5d9deba2668da8/images/cloud-computing0.png
 
