@@ -146,3 +146,20 @@ Using prompt suggestions:
 | **5. Privacy and Security**               |              |                                                                                            |
 | Third-Party Disclosure       |        4      | Limited third-party sharing is evident, with some data shared for specific functionalities. 	Adequate measures are in place to protect user data from unauthorized access or disclosure.
 
+
+
+# Round 3: HeyGen
+HeyGen is an innovative video platform that leverages the capabilities of generative AI to streamline and enhance your video creation process. With its intuitive interface and advanced features, HeyGen enables users to effortlessly produce studio-quality videos with AI-generated avatars and voices. HeyGen AI offers a free trial that allows you to create a 1-minute video.
+
+| Media       | Text       | Image      | Video |
+|-------------|------------|------------|-------|
+| Supported?  | No        | No       | Yes   |
+| Rating      | 0          |           | 5     |
+| Time needed | N/A | N/A | 10 Minutes   |
+
+## Getting Started
+To start using the tool:
+1. Go to https://www.heygen.com
+2. Create an account
+3. Start by selecting an avatar, templete and elements for the video. Script can be generated using GPT4 Script Writer or enter your own text
+4. Once all are set, select submit 
