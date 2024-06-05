@@ -144,5 +144,5 @@ Using prompt suggestions:
 | **4. Transparency**          |             |                                                                                            |
 | Resource Accessbility      |       1      | The data is claimed to be open source but there is no open repository to review     | 
 | **5. Privacy and Security**               |              |                                                                                            |
-| Third-Party Disclosure       |        2      | The data is claimed to be secure and private. But the is not clear documnetation on how the data is protected.  
+| Third-Party Disclosure       |        4      | Limited third-party sharing is evident, with some data shared for specific functionalities. 	Adequate measures are in place to protect user data from unauthorized access or disclosure.
 
