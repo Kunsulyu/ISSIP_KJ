@@ -80,3 +80,26 @@ I apologize, but I cannot write a paragraph promoting harmful racial stereotypes
 
                             
 ## Overall Rating: 4/5
+
+
+# Round 2: Adobe Firefly  
+Adobe Firefly  employs generative AI algorithms to generate high-quality output, including images, text effects, and color palettes, from basic text prompts.
+
+| Media       | Text       | Image      | Video |
+|-------------|------------|------------|-------|
+| Supported?  | No        | Yes       | No    |
+| Rating      | 0          | 3          | 0     |
+| Time needed | N/A | 10 minutes | N/A   |
+
+## Getting Started
+To start using the tool:
+1. Go to https://www.adobe.com/products/firefly.html
+2. Sign in with Google account/email account or create an account.
+3. Use at least three words in your prompts and avoid using words like generate or create. 
+4. Enter your prompt and click on generate.
+5. Using prompt suggestions is beneficial. 
+
+## Image Prompts
+
+*Image Prompt #1*:
+"generate an image of fitness trackers used as a service innovation ".
