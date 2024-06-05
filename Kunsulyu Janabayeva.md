@@ -1,4 +1,4 @@
-## https://github.com/Kunsulyu/ISSIP_KJ/
+## https://kunsulyu.github.io/ISSIP_KJ/
 
 # Generative AI Tool Evaluation 
 
