@@ -102,4 +102,5 @@ To start using the tool:
 ## Image Prompts
 
 *Image Prompt #1*:
-"generate an image of fitness trackers used as a service innovation ".
+"Cloud computing as an innovation"
+
