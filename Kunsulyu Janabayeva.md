@@ -131,5 +131,18 @@ Using prompt suggestions:
 - The text is unclear, and the language is not easily understandable.
 
 
-
+## Ethics Rating: 5/5
+| Principle                    | Rating (1-5) | Reasoning                                                                                  |
+|------------------------------|--------------|--------------------------------------------------------------------------------------------|
+| **1. Fairness**              |              |                                                                                            |
+| Diverse Representative Data  |       3     | Adobe Firefly shows some diversity, but there is room for improvement in representing all groups consistently.                        |
+| Bias Awareness and Mitigation|       3       | Adobe Firefly has some mechanisms to recognize and reduce bias, but these efforts are not always evident.      |
+| **2. Reliability**   |              |                                                                                            |
+| Quality Results over Time        |       3       | The images are good and repetition is not always gauranteed.                        |
+| **3. Traceability**          |              |                                                                                            |
+| Source Attribution           |      1       | Open source is used but source is never attributed.                                     |
+| **4. Transparency**          |             |                                                                                            |
+| Resource Accessbility      |       1      | The data is claimed to be open source but there is no open repository to review     | 
+| **5. Privacy and Security**               |              |                                                                                            |
+| Third-Party Disclosure       |        2      | The data is claimed to be secure and private. But the is not clear documnetation on how the data is protected.  
 
