@@ -104,4 +104,5 @@ To start using the tool:
 *Image Prompt #1*:
 "Cloud computing as an innovation"
 images/cloud-computing0.png
+images/cloud-computing0.png
 
